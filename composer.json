@@ -1,0 +1,7 @@
+{
+	"name": "fbai/watcher",
+	"version": "1.0.0",
+    "require": {
+        "jasonlewis/resource-watcher": "1.2.*"
+    }
+}
